@@ -3,9 +3,7 @@ title: Cool Recipes for Dogs
 layout: PostLayout
 date: '2021-11-03'
 author: content/data/team/hugh-saturation.json
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: 'You''ll love these recipes for dogs! :)'
 featuredImage:
   type: ImageBlock
   url: /images/post-4.jpg
