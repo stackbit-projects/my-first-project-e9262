@@ -28,10 +28,10 @@ registerComponents({
  *
  *     import CustomAction from './CustomAction';
  *
-registerComponents({
-  ...componentsMap,
-  AlertSection: dynamic(() => import('./AlertSection'))
-})
+ *     registerComponents({
+ *       ...componentsMap,
+ *       Action: CustomAction
+ *     });
  *
  * Note: you don't need to register a new static component unless you override an existing static component from
  * @stackbit/components.
@@ -65,3 +65,8 @@ registerComponents({
  * .stackbit/models folder. Models defined in .stackbit/models folder take precedence over the models with the same name
  * defined in @stackbit/components.
  */
+
+registerComponents({
+    ...componentsMap,
+    AlertSection: dynamic(() => import('./AlertSection'))
+})
