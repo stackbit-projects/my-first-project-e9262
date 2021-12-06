@@ -28,10 +28,10 @@ registerComponents({
  *
  *     import CustomAction from './CustomAction';
  *
- *     registerComponents({
- *       ...componentsMap,
- *       Action: CustomAction
- *     });
+registerComponents({
+  ...componentsMap,
+  AlertSection: dynamic(() => import('./AlertSection'))
+})
  *
  * Note: you don't need to register a new static component unless you override an existing static component from
  * @stackbit/components.
