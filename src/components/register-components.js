@@ -69,4 +69,4 @@ registerComponents({
 registerComponents({
     ...componentsMap,
     AlertSection: dynamic(() => import('./AlertSection'))
-})
+});
