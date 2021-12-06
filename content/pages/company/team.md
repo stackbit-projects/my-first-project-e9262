@@ -3,7 +3,7 @@ title: Landing
 sections:
   - type: HeroSection
     colors: colors-a
-    title: 'Love where you work, because work loves you'
+    title: Love where you work because they pay you lots
     text: >-
       One platform, one community, getting to the bottom line of everything
       employment.  Figure out your benefits, practice for interviews, get
