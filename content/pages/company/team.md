@@ -611,9 +611,7 @@ sections:
       text:
         textAlign: left
     type: ContactSection
-  - body: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - body: 'Hello, World!'
     type: AlertSection
 layout: PageLayout
 ---
