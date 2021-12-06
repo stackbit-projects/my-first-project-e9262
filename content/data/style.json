@@ -46,7 +46,7 @@
     "fontBody": "serif",
     "main": "#222222",
     "light": "#393939",
-    "onLight": "#ffe9e9",
+    "onLight": "#ffffff",
     "dark": "#282828",
     "onDark": "#ffffff",
     "primary": "#344ff1",
